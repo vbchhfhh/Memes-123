@@ -1,0 +1,62 @@
+body {
+    font-size: 15pt;
+    
+    
+    font-family: sans-serif  Helvetica,
+    
+    
+}
+ 
+  
+  
+
+.aboutus { background-color: rgb(128, 128, 128); 
+color: black;
+}
+  
+  
+  
+    
+    .classg {  background-color: rgb(128, 128, 128); 
+   color: black;
+   position: absolute;
+   right: 0px;
+    
+     }
+    
+   
+    
+  
+  
+  .bigpicture {
+    width: 100px;
+    height: 70px;
+    outline-color: black
+    
+    
+    
+    
+    
+  }
+  
+  
+.meme {
+position: absolute;  
+
+left: 50%;
+transform: translateX(-50%);
+background-color: rgb(128, 128, 128); 
+   color: black;
+
+
+
+}
+
+  
+  
+}
+
+  
+  
+  
+
